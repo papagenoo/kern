@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/kern.dir/main.c.o  -o kern -rdynamic 
